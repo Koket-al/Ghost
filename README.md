@@ -15,7 +15,7 @@
 
 - 🕳️ **Temporary Blockchain Rooms** – Create rooms that automatically expire after a chosen duration.
 - 🔥 **On‑Chain Self‑Destruction** – Rooms permanently lock and become inaccessible after expiration.
-- 👛 **Wallet‑Based Access** – Interact with any EVM‑compatible wallet (Portaldot, MetaMask, etc.).
+- 👛 **Wallet‑Based Access** – Interact with any EVM‑compatible wallet ( MetaMask... etc.).
 - ⏳ **Live Countdown System** – Each room displays a real‑time timer until destruction.
 - 💬 **Temporary Messaging** – Participants can send ephemeral messages before the room disappears.
 - 📜 **Proof of Destruction** – The blockchain permanently records that the room existed and was destroyed.
@@ -44,7 +44,7 @@ Most blockchain applications are designed around **permanence** – permanent re
 
 ## 🏗️ Technical Architecture
 
-### Blockchain (EVM – Portaldot)
+### Blockchain (EVM)
 
 - **Smart Contracts**: Solidity `^0.8.0`
 - **Core Functions**:
@@ -52,7 +52,7 @@ Most blockchain applications are designed around **permanence** – permanent re
   - `sendMessage(roomId, content)`
   - `destroyRoom(roomId)` (automatically called after expiration)
   - `getRoom(roomId)`
-- **Gas Token**: POT (Portaldot native token)
+- **Gas Token**: SEPOLIA ETHEREUM
 
 ### Frontend
 

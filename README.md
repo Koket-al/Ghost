@@ -57,9 +57,9 @@ Most blockchain applications are designed around **permanence** – permanent re
 ### Frontend
 
 - **Framework**: React + Vite
-- **Styling**: CSS modules / Tailwind (choose yours)
-- **Wallet Integration**: wagmi + viem (or ethers.js)
-- **Hosting**: Vercel / Netlify
+- **Styling**: CSS modules 
+- **Wallet Integration**: ethers.js
+- **Hosting**: Vercel 
 
 ### Contract Structure (Simplified)
 

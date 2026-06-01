@@ -6,7 +6,7 @@
 
 **Ghost** is a new type of decentralized application where blockchain rooms exist only temporarily and permanently self‑destruct after fulfilling their purpose. Unlike traditional dApps built for permanent storage, Ghost introduces *programmable impermanence* – temporary decentralized realities that automatically disappear after a timer, event, or condition is completed.
 
-🔗 **Live Demo**: [https://your-demo-url.vercel.app](https://ethghostvert.vercel.app/)  
+🔗 **Live Demo**: [https://ethghost.vercel.app](https://ethghostvert.vercel.app/)  
 📄 **Smart Contracts address**: [0xaF4E698C975DbeBe3cE243e746C8F481459EfB47]
 
 ---
